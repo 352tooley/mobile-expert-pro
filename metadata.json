@@ -1,0 +1,7 @@
+{
+  "name": "Mobile Expert Commission Pro",
+  "description": "A mobile-friendly commission quiz and roster management system for retail teams, featuring randomized quizzes, tiered access levels, and real-time performance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
